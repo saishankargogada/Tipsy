@@ -14,7 +14,7 @@ Tipsy is a simple iOS app designed to help you calculate tips and split bills ea
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saishankargogada/Tipsy.git
 2. Navigate to the project folder:
    ```bash
    cd Tipsy-Application
